@@ -4,4 +4,4 @@ Scraoing 2 provided websites to generate data and create data frames pertaining 
 
 code can be found within the "Starter Code" Folder
 
-*Note* majority of analysis on either Part 1 or Part 2 is found towards the bottom of the lines of text. 
+*Note* : majority of analysis on either Part 1 or Part 2 is found towards the bottom of the lines of text. 
