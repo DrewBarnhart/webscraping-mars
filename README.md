@@ -1,6 +1,6 @@
 # webscraping-mars
 
-Scraoing 2 provided websites to generate data and create data frames pertaining to weather conditions on Mars!
+Scraping 2 provided websites to generate data and create data frames pertaining to weather conditions on Mars!
 
 code can be found within the "Starter Code" Folder
 
